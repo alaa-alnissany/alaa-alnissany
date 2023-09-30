@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/1641070852711.jfif" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/1641070852711.jfif" align="center"/>
  <h2 align="center">Hi there 👋, I'm Alaa Alnissany</h2>
  <p align="center">Computer vision and ML Specialist and a Kaggle Competitions Expert</p>
 </p>
