@@ -4,7 +4,6 @@
  <h1 align="center">Kaggle Competitions Expert
 
   &
-  
   Computer vision and ML Specialist
  </h1>
  <p align="center">I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Scientist with a piece of high knowledge in the field of Computer Vision who is keen to contribute to a cause. I'm highly motivated to constantly develop my skills and grow professionally, I'm also a hard worker and a team worker.</p>
