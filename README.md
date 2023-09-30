@@ -1,7 +1,8 @@
 <p align="center">
  <img src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/Computer%20vision.jfif" align="center"/>
  <h2 align="center">Hi there 👋, I'm Alaa Alnissany</h2>
- <p align="center">Computer vision and ML Specialist and a Kaggle Competitions Expert</p>
+ <h1 align="center">Computer vision and ML Specialist and a Kaggle Competitions Expert</h1>
+ <p align="center">I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Scientist with a piece of high knowledge in the field of Computer Vision who is keen to contribute to a cause. I'm highly motivated to constantly develop my skills and grow professionally, I'm also a hard worker and a team worker.</p>
 </p>
 
 
@@ -9,11 +10,6 @@
 </b>
 </b>
 
-
-![Computer vision and ML Specialist and a Kaggle Competitions Expert](https://github.com/alaa-alnissany/alaa-alnissany/blob/main/1641070852711.jfif)
-
-### Hi there 👋, I'm Alaa Alnissany
-#### Computer vision and ML Specialist and a Kaggle Competitions Expert
 I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Scientist with a piece of high knowledge in the field of Computer Vision who is keen to contribute to a cause. I'm highly motivated to constantly develop my skills and grow professionally, I'm also a hard worker and a team worker.
 
 - 🔭 I’m currently looking for Job. 
