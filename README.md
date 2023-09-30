@@ -1,5 +1,6 @@
 <p align="center">
 ![Computer vision and ML Specialist and a Kaggle Competitions Expert](https://github.com/alaa-alnissany/alaa-alnissany/blob/main/1641070852711.jfif)
+ <img width="200" src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/1641070852711.jfif">
 
 ### Hi there 👋, I'm Alaa Alnissany
 #### Computer vision and ML Specialist and a Kaggle Competitions Expert
