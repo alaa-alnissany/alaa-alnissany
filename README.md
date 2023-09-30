@@ -1,11 +1,11 @@
 <p align="center" style="font-size:50px; color:#538b01; font-weight:bold; font-style:italic;">
  <img src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/Computer%20vision.jfif" align="center"/>
  <h2 align="center"">Hi there 👋, I'm Alaa Alnissany</h2>
- <p align="center >Kaggle Competitions <span style="color: #550A35">Expert</span>
+ <h1 align="center >Kaggle Competitions <span style="color: #550A35">Expert</span>
 
   &
   Computer vision and ML Specialist
- </p>
+ </h1>
  <p align="center">I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Scientist with a piece of high knowledge in the field of Computer Vision who is keen to contribute to a cause. I'm highly motivated to constantly develop my skills and grow professionally, I'm also a hard worker and a team worker.</p>
 </p>
 
