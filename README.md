@@ -19,8 +19,8 @@ I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Sc
 ### 📊 Github Stats
 <a href='https://github.com/alaa-alnissany/github-stats-transparent'>
   
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa-alnissany)](https://github.com/alaa-alnissany/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alnissany&layout=donut-vertical)](https://github.com/alaa-alnissany/github-readme-stats)
+[![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa-alnissany)](https://github.com/alaa-alnissany/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alnissany&layout=donut-vertical)](https://github.com/alaa-alnissany/github-readme-stats)
 
 </a>
 
