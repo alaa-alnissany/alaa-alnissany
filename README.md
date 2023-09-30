@@ -17,12 +17,7 @@ I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Sc
 * 💻 C++
 
 ### 📊 Github Stats
-<a href='https://github.com/alaa-alnissany/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/alaa-alnissany/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/alaa-alnissany/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+[![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa-alnissany)](https://github.com/alaa-alnissany/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align="center">](https://github.com/https:alaa-alnissany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align="center">](https://www.linkedin.com/in/https:alaa-alnissany//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' align="center">](https://www.facebook.com/https:alaa.nissany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' align="center">](https://www.instagram.com/https:alaanissany//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' align="center">](https://stackoverflow.com/users/https:10074959/alaa-alnissany)  
 
