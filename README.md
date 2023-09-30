@@ -1,7 +1,7 @@
 <p align="center" style="font-size:50px; color:#538b01; font-weight:bold; font-style:italic;">
  <img src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/Computer%20vision.jfif" align="center"/>
- <h2 align="center"">Hi there 👋, I'm Alaa Alnissany</h2>
- <h1 align="center >Kaggle Competitions <span style="color: #550A35">Expert</span>
+ <h2 align="center">Hi there 👋, I'm Alaa Alnissany</h2>
+ <h1 align="center">Kaggle Competitions <span style="color: #550A35">Expert</span>
 
   &
   Computer vision and ML Specialist
