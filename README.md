@@ -2,6 +2,8 @@
  <img src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/Computer%20vision.jfif" align="center"/>
  <h2 align="center">Hi there 👋, I'm Alaa Alnissany</h2>
  <h1 align="center">Kaggle Competitions Expert
+
+  &
   
   Computer vision and ML Specialist
  </h1>
