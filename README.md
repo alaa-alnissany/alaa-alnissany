@@ -15,9 +15,10 @@ I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Sc
 - 🔭 I’m currently looking for Job. 
 - 👯 I’m a trainer on an Arab AI Society 
 
-<div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https:alaa-alnissany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https:alaa-alnissany//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https:alaa.nissany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https:alaanissany//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https:10074959/alaa-alnissany)  
-</div>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align="center">](https://github.com/https:alaa-alnissany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align="center">](https://www.linkedin.com/in/https:alaa-alnissany//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' align="center">](https://www.facebook.com/https:alaa.nissany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' align="center">](https://www.instagram.com/https:alaanissany//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' align="center">](https://stackoverflow.com/users/https:10074959/alaa-alnissany)  
+
+
 ![snake gif](https://github.com/alaa-alnissany/alaa-alnissany/blob/output/github-contribution-grid-snake.svg)
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/alaa-alnissany)](https://github.com/ryo-ma/github-profile-trophy)
