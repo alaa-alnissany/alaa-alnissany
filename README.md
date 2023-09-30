@@ -40,7 +40,10 @@
  <a href="https://github.com/alaa-alnissany" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40px"/> </a>
  <a href="https://www.linkedin.com/in/alaa-alnissany/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40px"/> </a>
  <a href="https://stackoverflow.com/users/10074959/alaa-alnissany" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="40px"/> </a>
+ <a href="https://www.kaggle.com/alaaalnissany" target="_blank"> <img align="center" src="https://github.com/alaa-alnissany/alaa-alnissany/blob/main/Kaggle%20logo.png" alt="Kaggle" height="40px"/> </a>
 </p>
+
+
 
 <!--
 ![snake gif](https://github.com/alaa-alnissany/alaa-alnissany/blob/output/github-contribution-grid-snake.svg)
