@@ -5,8 +5,12 @@
 I'm Alaa from Syria, and I'm a Mid-Level Machine learning developer, and Data Scientist with a piece of high knowledge in the field of Computer Vision who is keen to contribute to a cause. I'm highly motivated to constantly develop my skills and grow professionally, I'm also a hard worker and a team worker.
 
 ## Skills and Experience
-* 
-Skills: Computer vision / ML / DL / NLP /Python / C++ 
+* 👁️ Computer vision
+* 📖 Machine Learning
+* 📚 Deep Learning
+* 📝 Natural language processing
+* 🐍 Python
+* 💻 C++
 
 - 🔭 I’m currently looking for Job. 
 - 👯 I’m a trainer on an Arab AI Society 
