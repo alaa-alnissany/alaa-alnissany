@@ -32,9 +32,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alnissany&layout=donut-vertical)](https://github.com/alaa-alnissany/github-readme-stats)
 -->
 
-<div class="tenor-gif-embed" data-postid="26000701" data-share-method="host" data-aspect-ratio="1.75824" data-width="100%"><a href="https://tenor.com/view/%D1%88%D0%B8%D0%B7%D0%B0-gif-26000701">шиза GIF</a>from <a href="https://tenor.com/search/%D1%88%D0%B8%D0%B7%D0%B0-gifs">шиза GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <p align="center">
+<img src="https://github.com/alaa-alnissany/alaa-alnissany/blob/output/github-contribution-grid-snake.svg" align="center"/>
+</br>
  <img src="https://github.com/alaa-alnissany/alaa-alnissany/blob/output/github-contribution-grid-snake.svg" align="center"/>
 </br>
  <a href="https://github.com/alaa-alnissany" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40px"/> </a>
