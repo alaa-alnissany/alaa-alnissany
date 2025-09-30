@@ -20,11 +20,11 @@
   
 ## Skills and Experience
 * 👁️ Computer vision
+* 💻 LLMs
 * 📖 Machine Learning
 * 📚 Deep Learning
 * 📝 Natural language processing
 * 🐍 Python
-* 💻 C++
 <!--
 ### 📊 Github Stats
   
